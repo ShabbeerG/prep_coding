@@ -18,3 +18,8 @@ class Solution(object):
                 high = mid - 1
 
         return -1
+
+if __name__ == '__main__':
+    nums = [1,3 ,6, 10]
+    target = 10
+    print Solution().search(nums, target)
