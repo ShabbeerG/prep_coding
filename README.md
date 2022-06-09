@@ -1,4 +1,4 @@
 # prep_coding
 problems:
 
-leetocde
+leetcode
